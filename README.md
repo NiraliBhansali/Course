@@ -1,3 +1,3 @@
-# Course-1
-# Course-2
-# Course-3
+Course 2
+EDA
+Data sourcing, data cleaning, data organisation
